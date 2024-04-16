@@ -1,7 +1,7 @@
 Preview:
 
-** Calculator: ** [GitHub Pages](https://shaukat69.github.io/Internship-Project/Calculator/)
+**Calculator:** [Calculator](https://shaukat69.github.io/Internship-Project/Calculator/)
 
-** Currency Converter: ** [GitHub Pages](https://shaukat69.github.io/Internship-Project/Currency%20Converter/)
+**Currency Converter:** [Currency Converter](https://shaukat69.github.io/Internship-Project/Currency%20Converter/)
 
-** Registration Form: ** [GitHub Pages](https://shaukat69.github.io/Internship-Project/Registration%20Form/)
+**Registration Form:** [Registration Form](https://shaukat69.github.io/Internship-Project/Registration%20Form/)
