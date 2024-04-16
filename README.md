@@ -1,4 +1,4 @@
-Preview:
+# Preview:
 
 **Calculator:** [Calculator](https://shaukat69.github.io/Internship-Project/Calculator/)
 
